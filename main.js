@@ -12,7 +12,7 @@ chrome.app.runtime.onLaunched.addListener(function() {
   var height = 500;
 
   chrome.app.window.create('index.html', {
-    id: "helloWorldID",
+    id: "P5jsApplicationID",
     outerBounds: {
       width: width,
       height: height,

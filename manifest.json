@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "P5js App",
-  "version": "2.1",
+  "name": "P5js Application",
+  "version": "1.0",
   "minimum_chrome_version": "23",
   "icons": {
     "16": "icon_16.png",
