@@ -1,12 +1,12 @@
-# P5js Template for ChromeOS Applications
+# P5js template for ChromeOS Applications
 
-## What is this Template?
+## What is this template?
 This template is a start point to convert existing P5js sketches in stand-alone applications for ChromeOS and the Chrome Browser.
 
-## Why use this Template?
+## Why use this template?
 Use this template if you want your P5js sketches available as a stand-alone offline application, without using Electron.
 
-## How to work with this Template?
+## How to work with this template?
 1. Download or clone this repository
 2. Replace sketch.js with the P5js sketch
 3. Update the metadata in mainfest.json
